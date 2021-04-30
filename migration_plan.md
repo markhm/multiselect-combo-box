@@ -47,6 +47,8 @@ _To be confirmed._
 1) Migrate `src/multiselect-combo-box.js`
 1) Create CSS files for `theme/lumo/*.js`
 
+The parts surrounding `<vaadin-combo-box-light>` should be replaced by a `<vaadin-custom-component>`, so we reduce code.
+
 Ensure that `demo/index.html` keeps working after every step.
 
 ### References
